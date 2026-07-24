@@ -331,3 +331,13 @@ footer a{ color:var(--ink-soft); }
   body{ background:#fff; }
   .section{ page-break-inside:avoid; }
 }
+/* solid green call to action, used on the University page button */
+.btn.uni{
+  background:#0F7A3D;
+  border-color:#0F7A3D;
+  color:#F7F8FB;
+}
+.btn.uni:hover{
+  background:#0A5C2D;
+  border-color:#0A5C2D;
+}
