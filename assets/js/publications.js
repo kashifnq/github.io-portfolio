@@ -238,6 +238,15 @@ const BOOKS = [
   },
   {
     kind: "Edited",
+    year: "In press",
+    title: "AI-Driven Farming Systems With Minimal Human Intervention",
+    publisher: "IGI",
+    cover: "assets/img/AI-Driven-Farming-System.jpg",
+    link: "",
+    note: "Currently in production."
+  },
+  {
+    kind: "Edited",
     year: "2023",
     title: "Cybersecurity Vigilance and Security Engineering of Internet of Everything",
     publisher: "Springer",
