@@ -99,6 +99,15 @@ Every colour is a variable at the top of `assets/css/style.css`:
 Change those three values and the whole site follows.
 
 ---
+## Add Book Placeholder
+
+Books live in assets/js/publications.js, at the very bottom of the file in the BOOKS list.
+To edit it on GitHub
+1. Open your repo, click the assets folder, then js, then publications.js.
+2. Click the pencil icon at the top right of the file view.
+3. Scroll to the bottom. You'll see the last book entry (Artificial Intelligence-Based Renewable Energy Systems) followed by ];.
+4. Add your new entry before that ];, and put a comma after the previous entry's closing brace.
+5. Click Commit changes. The site rebuilds in about a minute.
 
 ## Notes
 
