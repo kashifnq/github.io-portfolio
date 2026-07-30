@@ -14,6 +14,7 @@
 
 const PUBLICATIONS = [
   // ---------------------------------------------------------- 2026
+  { y:2026, type:"journal", title:"Context-aware temporal fusion transformer for short-term electric vehicle charging stations demand prediction", authors:"A. Hussain, Q. C. Lu, K. N. Qureshi", venue:"Sustainable Energy, Grids and Networks, vol. 47, art. 102444", imf:"5.7", doi:"https://doi.org/10.1016/j.segan.2026.102444" },
   { y:2026, type:"journal", title:"On-demand dynamic charging pricing strategy for Electric Vehicles", authors:"A. Hussain, Q. C. Lu, K. N. Qureshi, K. Javeed", venue:"Egyptian Informatics Journal, vol. 33, art. 100921", imf:"4.2", doi:"https://doi.org/10.1016/j.eij.2026.100921" },
 
   // ---------------------------------------------------------- 2025
